@@ -62,7 +62,7 @@ function RestaurantMenuInfo() {
         setIsVegFiltered(!isVegFiltered);
     };
 
-    console.log(resInfo.sla);
+    // console.log(resInfo.sla);
     // if (resInfo?.sla?.slaString) {
     //     console.log(resInfo.sla.slaString);
     // }
